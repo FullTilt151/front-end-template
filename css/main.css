@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+
+span{
+    padding: 10px;
+}
+
+h1{
+    border: 1px  solid red; 
+    text-align: center;
+    font-style: oblique;
+    font-family: Helvetica;
+}
+
+h2{
+    color: brown;
+}
